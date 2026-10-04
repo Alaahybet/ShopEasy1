@@ -200,7 +200,7 @@
   flex-wrap: wrap;
   gap:20px;
 }
-@media (max-eidth:600px){
+@media (max-width:600px){
   .products{
     flex-direction: column;
   }
